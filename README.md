@@ -5,5 +5,5 @@ Created by modifying the [read-only](https://html5up.net/read-only) template fro
 Suggestions welcome. Open for free-use.
 
 ### To-do
-[*] Add sections
-[ ] Add content
+- [X] Add sections
+- [ ] Add content
