@@ -1,2 +1,9 @@
 # Personal-Website
-My personal website enthusiastically created during 1st year summer vacations. 
+
+Created by modifying the [read-only](https://html5up.net/read-only) template from [https://html5up.net/](https://html5up.net/).
+
+Suggestions welcome. Open for free-use.
+
+### To-do
+[*] Add sections
+[ ] Add content
